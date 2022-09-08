@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uchedanny
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m a Frontend Developer
+- 🌱 I’m currently skilled in HTML,CSS and Javascript
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me via Twitter https://twitter.com/UcheDaniel042?t=dIYL_a-Jl3rkPRU8lT4pBg&s=09
 
